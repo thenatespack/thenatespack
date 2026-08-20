@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate frontend developer from SLC,UT</h3>
 
+- 🔭 I’m currently working on **IsoStruct**
+
+- 🌱 I’m currently learning **Elixir**
+
+- 👨‍💻 All of my projects are available at [nathanspackman.com](nathanspackman.com)
+
+- 💬 Ask me about **Elixir or PHP**
+
+- 📫 How to reach me **natespack@icloud.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
