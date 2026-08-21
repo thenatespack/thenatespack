@@ -1,6 +1,6 @@
 ![Header](https://www.cloudtransformation.com.sg/wp-content/uploads/2018/08/banner-softwaredev.jpg)
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A passionate frontend developer from SLC,UT</h3>
+<h3 align="center">A passionate frontend developer from SLC, UT</h3>
 
 - 🔭 I’m currently working on **IsoStruct**
 
