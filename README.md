@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Elixir**
 
-- 👨‍💻 All of my projects are available at [nathanspackman.com](nathanspackman.com)
+- 👨‍💻 All of my projects are available at [nathanspackman.com](https://nathanspackman.com/)
 
 - 💬 Ask me about **Elixir or PHP**
 
